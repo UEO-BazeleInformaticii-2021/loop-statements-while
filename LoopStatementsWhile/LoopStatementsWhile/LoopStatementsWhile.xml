@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LoopStatementsWhile</name>
+    </assembly>
+    <members>
+        <member name="M:LoopStatementsWhile.Startup.Program.ImplementationWihWhile">
+            <summary>
+            Implements the autentication with a while loop.
+            </summary>
+        </member>
+        <member name="M:LoopStatementsWhile.Startup.Program.ImplementationWithDoWhile(System.String)">
+            <summary>
+            Implements the autentication with a do..while loop.
+            <code>
+            do { ... } while(condition);
+            </code>
+            </summary>
+            <param name="parameter">This is a string parameter</param>
+            <exception cref="T:System.NullReferenceException">When the string is null.</exception>
+        </member>
+    </members>
+</doc>

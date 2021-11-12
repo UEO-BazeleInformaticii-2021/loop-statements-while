@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>D:\UEO\Github\loop-statements-while\LoopStatementsWhile\LoopStatementsWhile\LoopStatementsWhile.xml</DocumentationFile>
+  </PropertyGroup>
+
 </Project>
